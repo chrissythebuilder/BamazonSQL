@@ -28,6 +28,7 @@
   "dependencies": {
     "fs": "0.0.1-security",
     "http": "0.0.0",
+    "inquirer": "^6.1.0",
     "mysql": "^2.16.0"
   }
 }
