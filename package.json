@@ -1,0 +1,33 @@
+{
+  "name": "bamazonsql",
+  "version": "1.0.0",
+  "description": "Creating and connecting SQL database with Node application to build an amazon-like functionality",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrissythebuilder/BamazonSQL.git"
+  },
+  "keywords": [
+    "node",
+    "sql",
+    "create",
+    "read",
+    "update",
+    "delete",
+    "javascript"
+  ],
+  "author": "Chriscelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrissythebuilder/BamazonSQL/issues"
+  },
+  "homepage": "https://github.com/chrissythebuilder/BamazonSQL#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "mysql": "^2.16.0"
+  }
+}
